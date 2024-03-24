@@ -8,7 +8,7 @@ Release Notes
 
 .. towncrier release notes start
 
-Buildbot ``3.12.3`` ( ``2024-03-23`` )
+Buildbot ``3.12.3`` ( ``2024-03-24`` )
 ======================================
 
 Bug fixes
